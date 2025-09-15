@@ -1,16 +1,55 @@
-# city_tour_app
+# 🗺️ Lima Explorer
 
-A new Flutter project.
+**Lima Explorer** is a **Flutter-based web app** designed to help users discover the best that **Lima, Peru** has to offer.  
+From **tourist attractions** to **nightlife hotspots** and **food destinations**, the app allows users to explore, mark their favorites, and plan an unforgettable experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🌐 Live Demo
 
-A few resources to get you started if this is your first Flutter project:
+Explore Lima now: [**Live Demo**](https://khanshairer.github.io/LimaExplorer/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- 🏛 **Tourist Attractions**  
+  Discover popular historical and cultural landmarks in Lima.
+
+- 🌃 **Nightlife Hotspots**  
+  Explore the vibrant nightlife scene with the best clubs and bars.
+
+- 🍽 **Food Locations**  
+  Find top-rated restaurants and food spots known for Peruvian cuisine.
+
+- ❤️ **Favorites System**  
+  Mark places as your favorites to create a personalized travel list.
+
+- 📱 **Responsive Design**  
+  Smooth and user-friendly experience on both desktop and mobile browsers.
+
+---
+
+## 📸 Screenshots
+
+| Home Page | Attractions Page |
+|-----------|------------------|
+| *Coming Soon* | *Coming Soon* |
+
+| Nightlife Page | Food Page |
+|----------------|-----------|
+| *Coming Soon* | *Coming Soon* |
+
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter** – Framework for building cross-platform apps  
+- **Dart** – Programming language for app logic  
+- **GoRouter** – For seamless navigation between pages  
+- **SharedPreferences** – To save and persist user favorites locally  
+- **GitHub Pages** – For web deployment  
+
+---
+
+## 📂 Project Structure
